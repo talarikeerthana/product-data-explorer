@@ -1,0 +1,8 @@
+{
+  "name": "product-data-explorer-backend",
+  "version": "1.0.0",
+  "description": "Backend for AbleSpace assignment",
+  "scripts": {
+    "start": "node dist/main.js"
+  }
+}
